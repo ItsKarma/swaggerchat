@@ -1,0 +1,10 @@
+# ai requirements
+chromadb
+openai
+langchain
+tiktoken
+unstructured
+pypdf
+
+# atlassian
+atlassian-python-api
