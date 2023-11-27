@@ -5,6 +5,11 @@ langchain
 tiktoken
 unstructured
 pypdf
+pysqlite3-binary
 
 # atlassian
 atlassian-python-api
+
+# s3/swagger
+boto3
+tqdm
